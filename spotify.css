@@ -1,0 +1,135 @@
+h3{
+  display: inline;
+
+}
+
+  body {
+    font-family: 'Rubik', sans-serif;
+    margin:0px;
+  }
+
+
+  img.logo {
+    margin-top:30px;
+
+    width:132px;
+  }
+
+  img.album-art {
+    padding: 10px;
+    width:374px;
+  }
+
+  img.girl{
+        padding: 10px;
+    width: 469px;
+    margin-left: 909px;
+    margin-top: -310px;
+    
+  }
+
+
+  /* Css for the menu bar */
+
+  nav {
+
+
+    background-color:#000000;
+    color:#ffffff;
+
+    height:80px;
+  }
+
+  ul.menu-bar {
+    float:right;
+  }
+
+  ul.menu-bar li {
+
+    display:inline;
+  }
+
+  ul.menu-bar li a {
+    padding-left: 10px;
+    font-size:20px;
+    color:#fff;
+  }
+
+  ul.menu-bar li a:hover {
+    color: green;
+    
+  }
+  .hello{
+    margin-top: 100px;
+    color: black;
+    font-size: 47px;
+  }
+
+  /*  CSS when person hovers over the user profile */
+  li.user-profile-item:hover {
+    color: green;
+  }
+#car{
+  display: block;
+  width:38%;
+        float:left;
+        font-size: 15px;
+}
+.h3{
+color: grey;
+}
+  /* Css for the Go Premium Section */
+  #go-premium {
+      text-align:center;
+      background: rgb(157,213,245);
+      background: radial-gradient(circle, rgba(157,213,245,1) 0%, rgba(91,195,255,1) 100%);
+
+      height:650px;
+
+      padding-top:300px;
+  }
+
+  #go-premium h1 { 
+    color: white;
+    font-size:80px;
+    letter-spacing: -3px;
+
+ 
+  }
+
+  #go-premium h2 {
+    color: white;
+    font-size:34px;
+    letter-spacing: -2px;
+  }
+.block{
+  background-color: black;
+  display: block;
+}
+#first_footer div ul li{
+  list-style: none;
+}
+#first_footer div ul{
+  padding-left: 0px;
+}
+#first_footer div.col{
+  width:15%;
+  float: left;
+}
+#second_footer div{
+  width:50%;
+  float:left;
+}
+#second_footer ul li{
+  display: inline;
+  padding-left: 30px;
+}
+#second_footer div p {
+  text-align:right;
+}
+  
+  .btn btn-round:hover {
+      color: red;
+  }
+
+
